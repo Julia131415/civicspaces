@@ -2,6 +2,10 @@
 
 An open-source framework for sustainable urban planning combining citizen participation, lightweight spatial analysis and transparent decision-making.
 
+## My Contributions
+
+I collaborated on the conceptual design of the Space Syntax plugin workflow for this open-source platform. I drafted the project framing, spatial-analysis use cases and documentation linking participatory planning with archaeological and built-heritage spatial analysis. My work supported translating humanities and heritage spatial-research requirements into the modular plugin architecture of CivicSpaces.
+
 ## Project Description
 
 CivicSpaces provides an interactive map where residents can submit feedback, explore planned projects and understand urban dynamics through Space Syntax visualisations. Cities and planners can compare scenarios, cluster citizen input with simple AI tools, identify hotspots and assess supply-chain risks for mobility and energy projects.
